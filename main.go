@@ -1,3 +1,4 @@
+// Use this username and password: username == admin@p1k4chu.com & Password == p1k4chu@1
 package akscep
 
 import (
